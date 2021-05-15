@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\obj\Debug\net5.0\Projetos Passagens Aéreas.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\obj\Debug\net5.0\Projetos Passagens Aéreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\obj\Debug\net5.0\Projetos Passagens Aéreas.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\obj\Debug\net5.0\Projetos Passagens Aéreas.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\obj\Debug\net5.0\Projetos Passagens Aéreas.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\bin\Debug\net5.0\Projetos Passagens Aéreas.exe
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\bin\Debug\net5.0\Projetos Passagens Aéreas.deps.json
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\bin\Debug\net5.0\Projetos Passagens Aéreas.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\bin\Debug\net5.0\Projetos Passagens Aéreas.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\bin\Debug\net5.0\Projetos Passagens Aéreas.dll
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\bin\Debug\net5.0\ref\Projetos Passagens Aéreas.dll
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\bin\Debug\net5.0\Projetos Passagens Aéreas.pdb
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\obj\Debug\net5.0\Projetos Passagens Aéreas.dll
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\obj\Debug\net5.0\ref\Projetos Passagens Aéreas.dll
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\obj\Debug\net5.0\Projetos Passagens Aéreas.pdb
+C:\Users\Pedro\Desktop\Projetos Passagens Aéreas\obj\Debug\net5.0\Projetos Passagens Aéreas.genruntimeconfig.cache

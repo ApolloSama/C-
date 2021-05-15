@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\bin\Debug\net5.0\Ex. Sistema De Produtos.exe
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\bin\Debug\net5.0\Ex. Sistema De Produtos.deps.json
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\bin\Debug\net5.0\Ex. Sistema De Produtos.runtimeconfig.json
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\bin\Debug\net5.0\Ex. Sistema De Produtos.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\bin\Debug\net5.0\Ex. Sistema De Produtos.dll
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\bin\Debug\net5.0\ref\Ex. Sistema De Produtos.dll
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\bin\Debug\net5.0\Ex. Sistema De Produtos.pdb
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\obj\Debug\net5.0\Ex. Sistema De Produtos.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\obj\Debug\net5.0\Ex. Sistema De Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\obj\Debug\net5.0\Ex. Sistema De Produtos.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\obj\Debug\net5.0\Ex. Sistema De Produtos.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\obj\Debug\net5.0\Ex. Sistema De Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\obj\Debug\net5.0\Ex. Sistema De Produtos.dll
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\obj\Debug\net5.0\ref\Ex. Sistema De Produtos.dll
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\obj\Debug\net5.0\Ex. Sistema De Produtos.pdb
+C:\Users\Pedro\Desktop\Ex. Sistema De Produtos\obj\Debug\net5.0\Ex. Sistema De Produtos.genruntimeconfig.cache

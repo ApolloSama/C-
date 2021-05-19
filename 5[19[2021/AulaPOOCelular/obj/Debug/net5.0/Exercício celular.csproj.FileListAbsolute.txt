@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\AulaPOOCelular\bin\Debug\net5.0\Exercício celular.exe
+C:\Users\Pedro\Desktop\AulaPOOCelular\bin\Debug\net5.0\Exercício celular.deps.json
+C:\Users\Pedro\Desktop\AulaPOOCelular\bin\Debug\net5.0\Exercício celular.runtimeconfig.json
+C:\Users\Pedro\Desktop\AulaPOOCelular\bin\Debug\net5.0\Exercício celular.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\AulaPOOCelular\bin\Debug\net5.0\Exercício celular.dll
+C:\Users\Pedro\Desktop\AulaPOOCelular\bin\Debug\net5.0\ref\Exercício celular.dll
+C:\Users\Pedro\Desktop\AulaPOOCelular\bin\Debug\net5.0\Exercício celular.pdb
+C:\Users\Pedro\Desktop\AulaPOOCelular\obj\Debug\net5.0\Exercício celular.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\AulaPOOCelular\obj\Debug\net5.0\Exercício celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\AulaPOOCelular\obj\Debug\net5.0\Exercício celular.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\AulaPOOCelular\obj\Debug\net5.0\Exercício celular.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\AulaPOOCelular\obj\Debug\net5.0\Exercício celular.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AulaPOOCelular\obj\Debug\net5.0\Exercício celular.dll
+C:\Users\Pedro\Desktop\AulaPOOCelular\obj\Debug\net5.0\ref\Exercício celular.dll
+C:\Users\Pedro\Desktop\AulaPOOCelular\obj\Debug\net5.0\Exercício celular.pdb
+C:\Users\Pedro\Desktop\AulaPOOCelular\obj\Debug\net5.0\Exercício celular.genruntimeconfig.cache
